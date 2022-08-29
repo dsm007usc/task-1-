@@ -1,0 +1,95 @@
+{
+  "CATALOG": {
+    "PLANT": [
+      {
+        "COMMON": "Bloodroot",
+        "BOTANICAL": "Sanguinaria canadensis",
+        "LIGHT": "Mostly Shady",
+        "PRICE": "2.44"
+      },
+      {
+        "COMMON": "Columbine",
+        "BOTANICAL": "Aquilegia canadensis",
+        "LIGHT": "Mostly Shady",
+        "PRICE": "9.37",
+        "AVAILABILITY": "30699"
+      },
+      {
+        "COMMON": "Marsh Marigold",
+        "BOTANICAL": "Caltha palustris",
+        "LIGHT": "Mostly Sunny",
+        "PRICE": "6.81",
+        "AVAILABILITY": "51799"
+      },
+      {
+        "COMMON": "Cowslip",
+        "BOTANICAL": "Caltha palustris",
+        "LIGHT": "Mostly Shady",
+        "PRICE": "9.90"
+      },
+      {
+        "COMMON": "Ginger, Wild",
+        "BOTANICAL": "Asarum canadense",
+        "LIGHT": "Mostly Shady",
+        "PRICE": "9.03"
+      },
+      {
+        "COMMON": "Hepatica",
+        "BOTANICAL": "Hepatica americana",
+        "LIGHT": "Mostly Shady",
+        "PRICE": "4.45"
+      },
+      {
+        "COMMON": "Liverleaf",
+        "BOTANICAL": "Hepatica americana",
+        "LIGHT": "Mostly Shady",
+        "PRICE": "3.99"
+      },
+      {
+        "COMMON": "Jack-In-The-Pulpit",
+        "BOTANICAL": "Arisaema triphyllum",
+        "LIGHT": "Mostly Shady",
+        "PRICE": "3.23",
+        "AVAILABILITY": "20199"
+      },
+      {
+        "COMMON": "Mayapple",
+        "BOTANICAL": "Podophyllum peltatum",
+        "LIGHT": "Mostly Shady",
+        "PRICE": "2.98"
+      },
+      {
+        "COMMON": "Phlox, Woodland",
+        "BOTANICAL": "Phlox divaricata",
+        "LIGHT": "Sun or Shade",
+        "PRICE": "2.80",
+        "AVAILABILITY": "12299"
+      },
+      {
+        "COMMON": "Phlox, Blue",
+        "BOTANICAL": "Phlox divaricata",
+        "LIGHT": "Sun or Shade",
+        "PRICE": "5.59",
+        "AVAILABILITY": "21699"
+      },
+      {
+        "COMMON": "Spring-Beauty",
+        "BOTANICAL": "Claytonia Virginica",
+        "LIGHT": "Mostly Shady",
+        "PRICE": "6.59"
+      },
+      {
+        "COMMON": "Trillium",
+        "BOTANICAL": "Trillium grandiflorum",
+        "LIGHT": "Sun or Shade",
+        "PRICE": "3.90"
+      },
+      {
+        "COMMON": "Wake Robin",
+        "BOTANICAL": "Trillium grandiflorum",
+        "LIGHT": "Sun or Shade",
+        "PRICE": "3.20"
+      }
+    ]
+  }
+}

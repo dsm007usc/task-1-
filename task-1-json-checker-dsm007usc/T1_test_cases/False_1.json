@@ -1,0 +1,16 @@
+{
+  "food": [
+    {
+      "name": "French Toast",
+      "price": "4.50",
+      "description": "Thick slices made from our homemade sourdough bread",
+      "calories": "600"
+    },
+    {
+      name: "Homestyle Breakfast",
+      "price": "6.95",
+      "description": "Two eggs, bacon or sausage, toast, and our ever-popular hash browns",
+      "calories": "950"
+    }
+  ]
+}

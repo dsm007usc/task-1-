@@ -1,0 +1,18 @@
+{
+  "messages": {
+    "note": [
+      {
+        "to": "Tove",
+        "from": "Jani",
+        "heading": "Reminder",
+        "body": "Do not forget me this weekend!"
+      },
+      {
+        "to": "Jani",
+        "from": "Tove",
+        "heading": "Re: Reminder",
+        "body": "I will not"
+      }
+    ]
+  }
+}
